@@ -1,7 +1,5 @@
 meow
 ====
-
-![image](images/yo.png)
-
 cat says
 
+![image](images/yo.png =100x)
